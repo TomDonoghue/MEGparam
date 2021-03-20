@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+omapping
+fooof == 1.0.0
