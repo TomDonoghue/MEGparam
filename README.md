@@ -1,4 +1,4 @@
-# MEG FOOOF
+# MEG - Spectral Parameterization
 
 Project repository, part of the `parameterizing neural power spectra` project. 
 
