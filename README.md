@@ -14,6 +14,15 @@ Analyses include:
 - applying power spectrum parameterization to a large dataset of resting state MEG data
 - exploring the spectral parameters across the cortex with source projected data
 
+Note that this repository only does the analysis of the analysis of the neural power spectra, 
+after pre-processing. 
+
+Pre-processing for this data was mostly done with 
+[Brainstorm](https://neuroimage.usc.edu/brainstorm/).
+
+Custom processing code was used in this analysis, available in the 
+[omapping](https://github.com/voytekresearch/omapping) repository. 
+
 ## Project Guide
 
 You can follow along with this project by looking through everything in the `notebooks`.
@@ -46,4 +55,5 @@ This project repository is set up in the following way:
 
 ## Data
 
-This project uses magnetoencephalograpy (MEG) data, from the HCP project.
+This project uses magnetoencephalograpy (MEG) data, from the Human Connectome Project (HCP) project 
+[Young Adult dataset](https://www.humanconnectome.org/study/hcp-young-adult/document/1200-subjects-data-release).
